@@ -1,6 +1,6 @@
 title: Anton Yusupov
 
-baseURL: https://antonyusupov.netlify.app
+baseURL: https://antonyusupov.netlify.app/
 theme: hugo-researcher
 disableKinds:
   - taxonomy
@@ -13,7 +13,7 @@ googleAnalytics: ''
 defaultContentLanguage: en
 languages:
   en:
-    baseURL: https://antonyusupov.netlify.app
+    baseURL: https://antonyusupov.netlify.app/
     fontFamily: Tahoma
     fontWeight: Normal
     languageName: English
@@ -40,7 +40,7 @@ languages:
   ru:
     fontFamily: Tahoma
     fontWeight: Normal
-    baseURL: https://antonyusupov2.netlify.app
+    baseURL: https://antonyusupov.netlify.app/
     languageName: Russian
     title: Мой Сайт (Ru)
     slug: moi_sait
