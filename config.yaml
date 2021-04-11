@@ -40,7 +40,7 @@ languages:
   ru:
     fontFamily: Tahoma
     fontWeight: Normal
-    baseURL: https://antonyusupov2.netlify.app
+    baseURL: https://antonyusupov.netlify.app
     languageName: Russian
     title: Мой Сайт (Ru)
     slug: moi_sait
