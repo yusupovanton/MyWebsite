@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Индекс on Мой Сайт (Ru)</title>
+    <link>https://antonyusupov.netlify.app/ru/</link>
+    <description>Recent content in Индекс on Мой Сайт (Ru)</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://antonyusupov.netlify.app/ru/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://antonyusupov.netlify.app/ru/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antonyusupov.netlify.app/ru/about/</guid>
+      <description>About Me as a person Я родился в Москве. Когда мне было 6 лет, моя семья купила наш первый компьютер, и я играл в игры, которые для него были доступны. Я всегда задавался вопросом: «Как вообще машина создает изображение? Это кто-то внутри решает, какое изображение показывать в данный конкретный момент?» Позже я начинал задавать эти вопросы своим родителям, но они никогда не знали на них ответа, поэтому мне приходилось отвечать на них самому.</description>
+    </item>
+    
+    <item>
+      <title>Контакты</title>
+      <link>https://antonyusupov.netlify.app/ru/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antonyusupov.netlify.app/ru/contact/</guid>
+      <description> И-мейл: antonyusupov@outlook.com Телефон (мобильный): +7(985)933-0116 (Доступен на Whats&amp;rsquo;app)   Социальные сети  Facebook github VK Instagram  </description>
+    </item>
+    
+  </channel>
+</rss>

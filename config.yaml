@@ -10,16 +10,16 @@ math: no
 googleAnalytics: ''
 
 
-defaultContentLanguage: en
+defaultContentLanguage: ru
+
 languages:
   en:
-    baseURL: https://antonyusupov.netlify.app/
     fontFamily: Tahoma
     fontWeight: Normal
     languageName: English
-    title: My Website (En)
-    slug: my_website
-    weight: 2
+    title: My Website
+    slug: mywebsite
+    weight: 1
     menu:
       main:
         - name: About me
@@ -37,14 +37,17 @@ languages:
         - name: Contact
           url: /contact
           weight: 3
+        - name: Русский
+          url: /ru
+          weight: 4
+          
   ru:
     fontFamily: Tahoma
     fontWeight: Normal
-    baseURL: https://antonyusupov.netlify.app/
     languageName: Russian
-    title: Мой Сайт (Ru)
-    slug: moi_sait
-    weight: 1
+    title: Мой Сайт
+    slug: moisait
+    weight: 2
     menu:
       main:
         - name: Обо мне 
@@ -62,6 +65,10 @@ languages:
         - name: Контакты
           url: /contact
           weight: 3
+        - name: English
+          url: /en
+          weight: 4
+          
 params:
   navigation:
     about: About 

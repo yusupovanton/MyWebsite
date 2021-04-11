@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on My Website (En)</title>
+    <link>https://antonyusupov.netlify.app/content.en/</link>
+    <description>Recent content in Index on My Website (En)</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://antonyusupov.netlify.app/content.en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://antonyusupov.netlify.app/content.en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antonyusupov.netlify.app/content.en/about/</guid>
+      <description>About Me as a person  Some of my personal skills 1.Sports
+2.Web-design
+3.Communication
+4.Fast-learning
+5.Team-working
+Life Values 1.Friendship, connection
+2.Self-improvement
+3.Trust, stability
+4.Honesty, humbleness
+5.Happiness
+Favourite things/places/people&amp;hellip; 1.Maths
+2.My dog
+3.Moscow, at least some of it
+4.Electronic music and rap
+5.Having long walks without a destination
+6.Meditation, breathing techniques</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://antonyusupov.netlify.app/content.en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://antonyusupov.netlify.app/content.en/contact/</guid>
+      <description> Email: antonyusupov@outlook.com Phone: +7(985)933-0116 (Whats&amp;rsquo;app or Telegram available)   Socials  Facebook github VK Instagram  </description>
+    </item>
+    
+  </channel>
+</rss>
