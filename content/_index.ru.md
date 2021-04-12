@@ -1,6 +1,6 @@
 ---
 title: Индекс
-translationKey: "index"
+
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: Index
-translationKey: "index"
+
 ---
 
-## Intro
+## A liitle bit about myself
 
 {{< figure class="avatar" src="/avatar.jpeg" >}}
 
