@@ -1,6 +1,6 @@
 title: Anton Yusupov
 
-baseURL: https://antonyusupov.netlify.app/ru
+baseURL: https://antonyusupov.netlify.app/
 theme: hugo-researcher
 disableKinds:
   - taxonomy
